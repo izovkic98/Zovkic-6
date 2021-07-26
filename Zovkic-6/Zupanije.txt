@@ -1,0 +1,9 @@
+Grad Zagreb	1000000	500
+Osječko-Baranjska	10450	300
+Splitko-Dalmatinska	300550	150
+Vukovarsko-Srijemska	230022	244
+Makarska	500000	50
+Krapinsko-Zagorska	18000	55
+Krizevacka	180000	55
+Karlovačka	40000	45
+Sisačko-Moslovačka	25000	150

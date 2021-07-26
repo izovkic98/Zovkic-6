@@ -1,0 +1,4 @@
+Grlobolja	rijetko	500	Peče jako.
+Svrbez	cesto	300	Vruć kao vatra.
+Kasalj	srednje	150	Kašlje neprestano.
+test	aaaa	543543	ghfghfghf
